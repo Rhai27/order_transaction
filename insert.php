@@ -57,6 +57,8 @@
 </head>
 <body>
 
+<!-- Add User Form -->
+
 <div id="container">
     <h2 style="text-align: center;">Add User</h2>
 
